@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Paper:** [https://arxiv.org/abs/2506.07037](https://arxiv.org/abs/2506.07037) <br>
+**Paper:** [https://ieeexplore.ieee.org/document/11463816](https://ieeexplore.ieee.org/document/11463816) <br>
 
 *Zhongze Luo1, Weixuan Wan4, Tianya Zhang1, Dan Wang4, Xiaoying Tang1,2,3**  <br>
 1 School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China  <br>
