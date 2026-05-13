@@ -167,9 +167,10 @@ If you find this project helpful, please consider citing our work:
 
 ```
 @inproceedings{luo2026kg2qa,
-  title={KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering}, 
-  author={Zhongze Luo and Weixuan Wan and Tianya Zhang and Dan Wang and Xiaoying Tang}
+  title={KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering},
+  author={Luo, Zhongze and Wan, Weixuan and Zhang, Tianya and Wang, Dan and Tang, Xiaoying},
   booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={19217--19221},
   year={2026},
   organization={IEEE}
 }
