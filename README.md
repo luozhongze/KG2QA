@@ -6,7 +6,7 @@
 [![paper](https://img.shields.io/badge/paper-ieee-blue)](https://ieeexplore.ieee.org/document/11463816)
 
 ## News
-- **[2026.05.7]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is oral presented at ICASSP 2026!
+- **[2026.05.7]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is presented at ICASSP 2026!
 - **[2026.04.21]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is released!
 - **[2026.01.23]**: 🎉 Our [paper](https://ieeexplore.ieee.org/document/11463816) is accepted to ICASSP 2026!
 
