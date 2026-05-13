@@ -1,35 +1,18 @@
-# KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering
+<h2 align="center"> <a href="https://ieeexplore.ieee.org/document/11463816">KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering</a></h2>
+<h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!</h2>
+<h5 align="center">
 
-<div align="center">
+[![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/T-Lab-CUHKSZ/KG2QA)
+[![paper](https://img.shields.io/badge/paper-ieee-blue)](https://ieeexplore.ieee.org/document/11463816)
 
-**Paper:** [https://ieeexplore.ieee.org/document/11463816](https://ieeexplore.ieee.org/document/11463816) <br>
+## News
+- **[2026.05.7]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is oral presented at ICASSP 2026!
+- **[2026.04.21]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is released!
+- **[2026.01.23]**: 🎉 Our [paper](https://ieeexplore.ieee.org/document/11463816) is accepted to ICASSP 2026!
 
-*Zhongze Luo1, Weixuan Wan4, Tianya Zhang1, Dan Wang4, Xiaoying Tang1,2,3**  <br>
-1 School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China  <br>
-2 The Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen), China  <br>
-3 The Guangdong Provincial Key Laboratory of Future Networks of Intelligence, China  <br>
-4 School of Microelectronics, Xi’an Jiaotong University, China  <br>
-*Corresponding author: Xiaoying Tang</em>  <br>
-
-</div>
+## Why Do We Need KG2QA?
 
 The rapid evolution of communication technologies has led to an explosion of standards, rendering traditional expert-dependent consultation methods inefficient and slow. To address this challenge, we propose **KG2QA**, an intelligent question-answering system for communication standards that integrates fine-tuned large language models (LLMs) with a domain-specific knowledge graph (KG) via a Retrieval-Augmented Generation (RAG) framework. We construct a high-quality dataset of 6,587 QA pairs from ITU-T recommendations and fine-tune Qwen2.5-7B-Instruct, achieving significant performance gains: BLEU-4 increases from 18.86 to 66.90, outperforming both the base model and Llama-3-8B-Instruct. A structured KG containing 13,906 entities and 13,524 relations is built using LLM-assisted triple extraction based on a custom ontology. In our RAG pipeline, the fine-tuned LLM first retrieves relevant knowledge from the KG, enabling more accurate and factually grounded responses. Evaluated by DeepSeek-V3 as a judge, the KG-enhanced system improves performance across five dimensions, with an average score increase of 2.26\%, demonstrating superior factual accuracy and relevance. Integrated with Web platform and API, KG2QA delivers an efficient and interactive user experience. Our code and data have been open-sourced.
-
-<div align="center">
-
-</div>
-
-## Citation
-
-```
-@inproceedings{luo2026kg2qa,
-  title={KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering}, 
-  author={Zhongze Luo and Weixuan Wan and Tianya Zhang and Dan Wang and Xiaoying Tang}
-  booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  year={2026},
-  organization={IEEE}
-}
-```
 
 ![img](./KG2QA.png)
 
@@ -177,3 +160,17 @@ Knowledge Graph QA API Service Platform
 
 This work is supported in part by the Guangdong Basic and Applied Basic Research Foundation under Grant No. 2025A1515012968, Shenzhen Science and Technology Program under Grant No. JCYJ20240813113502004, National Natural Science Foundation of China under Grant No. 62001412, in part by the funding from Shenzhen Institute of Artificial Intelligence and Robotics for Society, in part by Shenzhen Stability Science Program 2023, and in part by the Guangdong Provincial Key Laboratory of Future Networks of Intelligence (Grant No. 2022B1212010001).
 
+
+## Citation
+
+If you find this project helpful, please consider citing our work:
+
+```
+@inproceedings{luo2026kg2qa,
+  title={KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering}, 
+  author={Zhongze Luo and Weixuan Wan and Tianya Zhang and Dan Wang and Xiaoying Tang}
+  booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2026},
+  organization={IEEE}
+}
+```
