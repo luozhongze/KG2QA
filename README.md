@@ -3,7 +3,7 @@
 <h5 align="center">
 
 [![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/T-Lab-CUHKSZ/KG2QA)
-[![ICASSP 2026](https://img.shields.io/badge/ICASSP&202026-Poster-blue)](https://ieeexplore.ieee.org/document/11463816)
+[![ICASSP 2026](https://img.shields.io/badge/ICASSP%202026-Poster-blue)](https://ieeexplore.ieee.org/document/11463816)
 
 ## News
 - **[2026.05.8]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is presented at ICASSP 2026!
