@@ -3,10 +3,10 @@
 <h5 align="center">
 
 [![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/T-Lab-CUHKSZ/KG2QA)
-[![paper](https://img.shields.io/badge/paper-ieee-blue)](https://ieeexplore.ieee.org/document/11463816)
+[![ICASSP 2026](https://img.shields.io/badge/ICASSP&202026-Poster-blue)](https://ieeexplore.ieee.org/document/11463816)
 
 ## News
-- **[2026.05.7]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is presented at ICASSP 2026!
+- **[2026.05.8]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is presented at ICASSP 2026!
 - **[2026.04.21]** Our [paper](https://ieeexplore.ieee.org/document/11463816) is released!
 - **[2026.01.23]**: 🎉 Our [paper](https://ieeexplore.ieee.org/document/11463816) is accepted to ICASSP 2026!
 
